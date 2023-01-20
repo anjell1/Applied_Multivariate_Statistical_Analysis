@@ -1,4 +1,4 @@
-##### amirhosienarab ########
+########
 #Principal component analysis mtcars
 ?mtcars
 count =row.names(mtcars)
